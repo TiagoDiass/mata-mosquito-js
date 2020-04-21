@@ -1,14 +1,18 @@
-<h1 align="center">
-  mata-mosquito-js<br>
-  <img alt="Mata Mosquito" src="./screenshots/sreenshot_1.png" width="500px"/>
-</h1>
+# mata-mosquito-js <img src="imagens/mosquito.png" width="50">
 
 <hr>
 
 Esse é um jogo simples de matar mosquitos, que desenvolvi utilizando somente HTML, CSS e JavaScript, com o objetivo de praticar JavaScript e testar meus conhecimentos na linguagem :grinning:
 
-:arrow_forward:
-*Você pode ver o jogo rodando clicando aqui:* https://tiagodiass.github.io/mata-mosquito-js/
+## Resultado final :arrow_forward:<br>
+*Você pode ver o jogo rodando clicando aqui:* https://tiagodiass.github.io/mata-mosquito-js/<br>
+
+#### Game Over
+![](GIF-GameOver.gif)
+
+#### Vitória
+![](GIF-Victory.gif)
+
 
 <hr>
 
